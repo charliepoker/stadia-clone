@@ -1,0 +1,18 @@
+.featured-games {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+  font-size: 2rem;
+  line-height: 2.5rem;
+  font-family: "Google Sans", sans-serif;
+  color: #202124;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  width: 100%;
+  grid-gap: 20px;
+  padding: 0 5%;
+  margin-top: 3rem;
+}

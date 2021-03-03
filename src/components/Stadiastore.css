@@ -1,0 +1,56 @@
+.stadiastore {
+  margin-top: 5rem;
+  text-align: center;
+  justify-content: center;
+}
+
+.stadiastore-btn a {
+  font-family: "Google Sans", sans-serif;
+  line-height: 1.5rem;
+  font-weight: 500;
+  cursor: pointer;
+  height: 3.5rem;
+  width: 22.5rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.25rem;
+  border-radius: 7px;
+  background: linear-gradient(
+    90deg,
+    rgba(248, 73, 27, 1) 0%,
+    rgba(241, 47, 63, 1) 50%,
+    rgba(220, 24, 96, 1) 100%
+  );
+  color: #fff;
+}
+
+.stadiastore-btn p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  letter-spacing: 0.00625rem;
+  font-weight: 300;
+  color: #5f6368;
+  margin-top: 0.75rem;
+}
+.stadiastore-text .maintext {
+  margin-top: 1.5rem;
+  font-family: "Google Sans", sans-serif;
+  font-size: 2rem;
+  line-height: 2.5rem;
+  font-weight: 500;
+  margin-bottom: 0.8rem;
+}
+
+.stadiastore-text .subtext {
+  color: #5f6368;
+  font-family: "Google Sans", sans-serif;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+}
+
+.stadiastore-text .subtext a {
+  cursor: pointer;
+  color: #de3334;
+  text-decoration: none;
+}
