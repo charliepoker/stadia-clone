@@ -1,5 +1,6 @@
 import React from "react";
 import "./Navbar.css";
+import Button from "./Button"
 
 function Navbar() {
   return (
@@ -60,7 +61,7 @@ function Navbar() {
               <a href="">Sign in</a>
             </li>
             <li>
-              <a href=""> Try now</a>
+              <Button btnStlye={"btn"} text="Try Now" />
             </li>
           </ul>
         </div>

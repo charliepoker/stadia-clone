@@ -8,6 +8,7 @@ import Stadiastore from "./components/Stadiastore";
 import Stadiastoregames from "./components/Stadiastoregames";
 import Footer from "./components/Footer";
 
+
 function App() {
   return (
     <div>

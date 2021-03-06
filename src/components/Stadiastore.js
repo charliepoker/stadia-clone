@@ -1,12 +1,13 @@
 import React from "react";
 import "./Stadiastore.css";
+import Button from "./Button"
 
 function Stadiastore() {
   return (
     <>
       <div className="stadiastore">
         <div className="stadiastore-btn">
-          <a href="">Try Stadia Pro free for 1 month</a>
+          <Button btnStlye={"btn-lg"} text="Try Stadia Pro free for 1 month" />
           <p>
             <sup>1</sup>$9.99/mo after trial, cancel anytime.
           </p>
